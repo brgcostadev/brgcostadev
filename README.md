@@ -18,4 +18,5 @@
 
 ##
 
+<a href="mailto:br9uno@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
 <a href="https://www.linkedin.com/in/bruno-gon%C3%A7alves-60b88123" target="_blank|_self"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank|_self"></a>
