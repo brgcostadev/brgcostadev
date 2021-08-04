@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Bruno Costa 👋
+##
 
 <div>
-  
 ![brgcostadev GitHub stats](https://github-readme-stats.vercel.app/api?username=brgcostadev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brgcostadev&theme=dark)](https://github.com/brgcostadev/github-readme-stats)
-  
 </div>
 
 <div>
