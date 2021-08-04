@@ -1,4 +1,4 @@
-### Olá! Eu sou o Bruno Gonçalves Costa 👋
+### Olá! Eu sou o Bruno Costa 👋
 
 <div>
   
