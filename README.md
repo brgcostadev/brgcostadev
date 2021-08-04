@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno Gonçalves Costa 👋
 
-![BrGCostaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=brgcostadev&show_icons=true&theme=dracula)
+![BrGCostaDEV GitHub stats](https://github-readme-stats.vercel.app/api?username=brgcostadev&show_icons=true&theme=dark)
 
 - 🌱 Estou estudando as tecnologias front-end (HTML/CSS/Javascript/React)
 - 👯 I’m looking to collaborate on ...
