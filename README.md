@@ -1,7 +1,7 @@
 
 
 
-### Olá! Eu sou o Bruno Costa 👋  <img align="center" alt="logo" height="250" width="250" src="https://i.imgur.com/nFXcgtA.png">
+### Olá! Eu sou o Bruno Costa 👋  <img align="right" alt="logo" height="250" width="250" src="https://i.imgur.com/nFXcgtA.png">
 ##
 
 <div>
