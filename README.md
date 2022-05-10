@@ -1,4 +1,5 @@
-<center> <img alt="logo" src="https://i.imgur.com/nFXcgtA.png"> </center>
+<center><img alt="logo" src="https://i.imgur.com/nFXcgtA.png"></center>
+<center>Item centralizado</center>
 
 
 ### Olá! Eu sou o Bruno Costa 👋
