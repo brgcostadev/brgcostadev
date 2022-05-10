@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="logo" height="300" width="300" src="https://i.imgur.com/nFXcgtA.png">
+<img align="center" alt="logo" height="400" width="400" src="https://i.imgur.com/nFXcgtA.png">
 
 ##
 
