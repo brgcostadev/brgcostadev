@@ -1,4 +1,4 @@
- <img align="center" alt="Js" src="https://imgur.com/nFXcgtA">
+ <img align="center" alt="logo" height="30" width="40" src="https://imgur.com/nFXcgtA">
 
 
 ### Olá! Eu sou o Bruno Costa 👋
