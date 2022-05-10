@@ -1,4 +1,3 @@
-##
 <div style="display: inline_block" align="center">
     <img alt="logo" src="https://i.imgur.com/nFXcgtA.png">
 </div>
