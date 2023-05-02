@@ -7,7 +7,7 @@
 - :sunglasses: Amante da tecnologia, sertanejo e cerveja!;
 - 🔭 Desenvolvedor NodeJS e React;
 - :mortar_board: Formado em Análise e Desenvolvimento de Sistema;
-- :school_satchel: Concluindo o curso de Desenvolvimento de Software na Cubos Academy (conclusão em 22/06/2022).
+- :school_satchel: Na Cubos Academy fiz o curso de Desenvolvedor Fullstack.
 
 
 <div style="display: inline_block" align="center">
