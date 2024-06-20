@@ -6,7 +6,7 @@
 
 - 🔭 Desenvolvedor FullStack;
 - 📱 Front-end: React, HTML, CSS e JavaScript;
-- 🖥 Back-end: .NET, C# e NodeJS;
+- 🖥 Back-end: .NET, C#, Node, PostgreSQL, SQL Server e MongoDB;
 - :mortar_board: Formado em Análise e Desenvolvimento de Sistema;
 - :school_satchel: Na Cubos Academy fiz o curso de Desenvolvedor Fullstack.
 
